@@ -1,0 +1,5 @@
+name: "astrbot_aiocqhttp_message_tester"
+author: "drdon1234"
+description: "使用 logger 完整打印消息结构"
+version: "1.0"
+repo: "https://github.com/drdon1234/astrbot_aiocqhttp_message_tester"
